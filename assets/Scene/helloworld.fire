@@ -499,7 +499,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 937,
-      "height": 268.8
+      "height": 301.4
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -553,7 +553,7 @@
     "_string": "运行后，查看控制台log可以看到\n挂在cocos节点下的脚本HelloWorld\n能正常访问gi命名空间",
     "_N$string": "运行后，查看控制台log可以看到\n挂在cocos节点下的脚本HelloWorld\n能正常访问gi命名空间",
     "_fontSize": 60,
-    "_lineHeight": 80,
+    "_lineHeight": 90,
     "_enableWrapText": true,
     "_N$file": null,
     "_isSystemFontUsed": true,
